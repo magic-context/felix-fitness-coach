@@ -1,5 +1,7 @@
 # Felix — Your AI Fitness Coach That Actually Remembers You
 
+> ⚠️ **DRAFT** — This specialist was created on Feb 17, 2026 and has not yet been manually reviewed. Content, structure, and instructions may change.
+
 Every fitness app tracks reps. Felix tracks **you** — your injuries, your schedule, your hatred of burpees, that left shoulder that acts up on overhead press day. He builds programs that get smarter every session because he never forgets.
 
 ## The Problem
