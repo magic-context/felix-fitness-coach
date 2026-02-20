@@ -1,27 +1,11 @@
 {
   "module": {
-    "id": "felix-fitness-coach",
-    "name": "Felix the Fitness Coach",
-    "role": "Personal fitness coach and wellness advisor",
+    "name": "Fitness Coach",
+    "role": "Personal fitness coach and training planner",
     "default-display-name": "Felix",
     "version": "1.0.0",
-    "description": "AI specialist that delivers personalized fitness coaching through persistent memory — remembers your goals, injuries, preferences, and progress across every session",
-    "created": "2026-02-17",
-    "updated": "2026-02-17"
-  },
-  "structure": {
-    "memory": "User profile, preferences, injury history, and progress tracking",
-    "knowledge": "Exercise library, training principles, nutrition guidance, and recovery protocols",
-    "active-projects": "Current training program, weekly schedule, and goal tracking",
-    "historical": "Completed programs and past training cycles"
-  },
-  "features": [
-    "Personalized workout programming based on goals, equipment, and schedule",
-    "Persistent memory of injuries, limitations, and exercise preferences",
-    "Progressive overload tracking and program adaptation",
-    "Nutrition guidance aligned with fitness goals",
-    "Recovery and injury prevention protocols",
-    "Weekly and monthly progress check-ins with trend analysis",
-    "Workout templates for consistent session logging"
-  ]
+    "description": "Personal fitness coaching specialist — workout planning, nutrition guidance, progress tracking, and body composition insights.",
+    "category": "health",
+    "author": "Magic Context"
+  }
 }
